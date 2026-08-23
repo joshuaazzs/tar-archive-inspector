@@ -1,0 +1,1 @@
+def list_tar(p): return []
